@@ -1,0 +1,463 @@
+
+#wrap {
+max-width: 480px;
+margin: 0 auto;
+}
+#wrap {
+background: #F2F4ED;
+}
+* {
+margin: 0;
+padding: 0;
+}
+user agent stylesheetdiv {
+display: block;
+}
+form{
+	        
+	margin:0 auto;
+}
+.search {
+	padding:6px 15px 6px 30px;
+	margin:3px;
+	
+}
+.rounded {
+border-radius:15px;
+outline: none;
+}
+
+#space{
+height:50px;
+
+}
+#topnav{
+position: relative;
+width: 100%;
+height: 98px;
+
+}
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+
+}
+#navlist ul li a {
+padding: 8px 10px;
+display: block;
+font-size: 12px;
+color: #ffffff;
+}
+#navcontainer{
+margin:auto;
+width: 269px;
+position: relative;
+text-align: center;
+z-index: 999999;
+width: 100%;
+
+}
+.topicon{
+padding:5px;
+width:288px;
+height:106px;
+}
+
+
+#searchsubmit{
+width: 16px;
+height: 16px;
+outline: none;
+background:url(./img/search-icon.png);
+background-repeat:no-repeat;
+background-size: 10px 15px;
+}
+.leftalign{
+background: transparent;
+padding-left: 1em;
+padding-right: .1em;
+width: 180px;
+
+}
+
+
+#img {
+ float:right;
+padding-left: 0;
+padding-top: 11px;
+}
+
+#tbox {
+float:left;
+position: absolute;
+width: 333px;
+}
+
+#footernavlist li
+{
+float:left;
+list-style-type: none;
+font-size: 10px;
+line-height:4px;
+margin:0 auto;
+height:25px;
+
+}
+#footernavlist{
+position:relative;
+height:25px;
+margin:0 auto;
+padding: 5px;
+
+
+}
+#footernavlist li a{
+ display:block;
+min-width:50px;
+max-width:60px;
+
+}
+#footernavlist li img {
+vertical-align: middle;
+display: block;
+
+}
+.youtube{
+height:25px;
+}
+.ping{
+height:25px;
+}
+.fb{
+height:25px;
+}
+.tw{
+height:25px;
+}
+#navlist li img{
+vertical-align: middle;
+border: 1px solid black;
+
+}
+#s{
+width: 150px;
+height:40px;
+border: 3px solid #cdcdcd;
+padding-left:15px;
+padding-right:15px;
+font-size: 9px;
+border-radius:25px;
+}
+
+.headerlogo{
+width: 65px;
+height: 56px;
+display:block;
+
+
+}
+
+.toplog li{
+display: inline;
+list-style-type: none;
+padding-right: 12px;
+font-size: 10px;
+}
+.leftalign div{
+ padding:5px;
+}
+.canvas {
+        margin: 0;
+        padding: 0;
+        height: 200px;
+        width:200px
+
+}
+#footernavlist li a.lets {
+	
+}
+.lets-image{
+width:90px;
+height: 25px;
+}
+.lets-image:hover{
+ background-color:orange;
+}
+.support{
+   width:100px;
+   height:40px;
+   margin:10px;
+}
+.support a{
+ text-decoration:none;
+}
+.tables{
+ padding:5px;
+ margin:0 auto;
+}
+.tables td{
+  padding:7px;
+}
+
+.homelogo{
+width:30px;
+line-height: 0;
+}
+.backlogo{
+width:30px;
+height: 30px;
+}
+
+#logs{
+position:absolute;
+left:5px;
+width:200px;
+padding:10px;
+   
+}
+.clear{
+ clear:both;
+}
+.search-round {
+
+text-indent:-1000px;
+width:30px;
+height:30px;
+border:0;
+
+}
+
+
+
+#searchPath{
+position:relative;
+width:200px;
+height:30px;
+padding:10px;
+float:right;
+}
+#menu{
+position:relative;
+display:block;
+ }
+.back{
+display:block;
+position:absolute;
+right: 37px;
+top: 70px;
+}
+#sortedList{
+ margin-top:10px;
+
+}
+
+#sortedList li.french{
+border: 1px solid #A67B5B;
+}
+#sortedList li{
+position:relative;
+list-style-type: none;
+ height:40px;
+border: 1px solid 		#ccc /*{c-bup-border}*/;
+background: 			#eee /*{c-bup-background-color}*/;
+font-weight: bold;
+color: 					#222 /*{c-bup-color}*/;
+text-shadow: 0 /*{c-bup-shadow-x}*/ 1px /*{c-bup-shadow-y}*/ 0 /*{c-bup-shadow-radius}*/ #fff /*{c-bup-shadow-color}*/;
+background-image: -webkit-gradient(linear, left top, left bottom, from( #fff /*{c-bup-background-start}*/), to( #f1f1f1 /*{c-bup-background-end}*/)); /* Saf4+, Chrome */
+background-image: -webkit-linear-gradient( #fff /*{c-bup-background-start}*/, #f1f1f1 /*{c-bup-background-end}*/); /* Chrome 10+, Saf5.1+ */
+background-image:    -moz-linear-gradient( #fff /*{c-bup-background-start}*/, #f1f1f1 /*{c-bup-background-end}*/); /* FF3.6 */
+background-image:     -ms-linear-gradient( #fff /*{c-bup-background-start}*/, #f1f1f1 /*{c-bup-background-end}*/); /* IE10 */
+background-image:      -o-linear-gradient( #fff /*{c-bup-background-start}*/, #f1f1f1 /*{c-bup-background-end}*/); /* Opera 11.10+ */
+background-image:         linear-gradient( #fff /*{c-bup-background-start}*/, #f1f1f1 /*{c-bup-background-end}*/);
+
+}
+#sortedList li a:hover{
+background: gray;
+}
+
+#sortedList li a{
+height:20px;
+
+padding-top:10px;
+padding-bottom:10px;
+padding-left:20px;
+text-decoration:none;
+text-align:left;
+color: #2f3e46;
+font-size: 16px;
+white-space: nowrap;
+font-family: Helvetica,Arial,sans-serif;
+font-weight: 700;
+display:block;
+text-overflow: ellipsis;
+overflow: hidden;
+
+}
+
+.ui-icon-2
+{
+	background-color: #fff;
+        background-color:rgba(255,255,255,.3);
+	background-image: url(img/icons-18-black.png);
+	background-repeat: no-repeat;
+        position: absolute;
+        top:10px;
+        right:5px;
+        height:20px;
+        width:10px;
+	
+}
+.ui-icon-arrow-r {
+	background-position: 	-113px -1px;
+}
+.topicon1{
+   height:50px;
+   width:270px; 
+ 
+}
+
+.topicon2{
+   height:50px;
+   width:270px;    
+}
+.topicon3{
+   height:50px;
+   width:270px;    
+}
+.topicon4{
+   height:50px;
+  width:270px;   
+}
+.fp-slider.clearfix{
+ padding:10px;
+}
+.fp-thumbnail{
+  margin:0 auto;
+}
+
+.lighter{
+float: left;
+max-width: 538px;
+min-width: 209px;
+width: 66.0417%;
+overflow: hidden;
+
+}
+#searchform{
+overflow: hidden;
+position: relative;
+}
+.rightalign{
+position: absolute;
+top: 17px;
+left: 24px;
+}
+
+ /* popup_box DIV-Styles*/ #popup_box {      display:block; /* Hide the DIV */       /* hack for internet explorer 6 */       height:260px;       max-width:300px;      /* background:#FFFFFF;  */ top: 150px;     /* Layering ( on-top of others), if you have lots of layers: I just maximized, you can change it yourself */     margin: 0px auto;            /* additional features, can be omitted */     border:0px solid #ccc;           padding:20px;       font-size:15px;       -moz-box-shadow: 0 0 0px #ff0000;     -webkit-box-shadow: 0 0 0px #ff0000;     box-shadow: 0 0 0px #ff0000;      }  #container {     background: #d2d2d2; /*Sample*/     width:100%;     height:100%; }  a{   cursor: pointer;   text-decoration:none;   }   /* This is for the positioning of the Close Link */ #popupBoxClose {     font-size:10px;       line-height:15px;       right:30px;           position:absolute;       color:#6fa5e2;       font-weight:500;       }
+
+   .qr-login {
+
+padding: 10px 10px;
+margin: auto;
+height: 260px;
+margin-top: 10px;
+margin-bottom: 20px;
+background-color: #ebf0f2;
+border-radius: 10px;
+border: 2px solid #cbd8e4;
+}
+.log-tit {
+font-family: 'MinionProBold';
+font-size: 10px;
+color: #4e7e8c;
+padding-bottom:5px;
+}
+.qr-login .lab-text {
+text-align: left;
+padding-left: 10px;
+color: #656569;
+font-weight: bold;
+text-transform: uppercase;
+}
+ .qr-login .lab-text {
+font-family: 'MinionProBold';
+font-size: 10px;
+color: #656569;
+}
+.inp-qr {
+width: 230px;
+padding: 5px;
+line-height: 10px;
+height: 20px;
+font-family: sans-serif;
+color: #222;
+}
+#quickform{
+font-family: 'MinionProBold';
+font-size: 10px;
+}
+#signup-btn{
+font-family: 'MinionProBold';
+font-size: 10px;
+}
+.singup{
+ padding-top:10px;
+ height:20px;
+}
+.qr-login .rd {
+font-family: 'MinionProBold';
+font-size: 10px;
+color: #bc2f37;
+padding-left: 5px;
+}
+input.button_add {
+    display:block;
+    background-image: url(img/sign-up-btn.png); /* 16px x 16px */
+    background-color: transparent; /* make the button transparent */
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    background-position:left;  /* equivalent to 'top left' */
+    border: none;           /* assuming we don't want any borders */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    height: 20px;           /* make this the size of your image */
+    margin-top:10px;
+    margin-bottom:10px;
+    padding-top: 3px;     /* make text start to the right of the image */
+    padding-bottom:3px;
+    vertical-align: middle; /* align the text vertically centered */
+    text-indent:-9999px;
+    width:110px;
+}
+.thank-inner {
+margin: 10px;
+color: black;
+}
+.thank-inner iframe {
+width: 80%;
+height: 140px;
+margin:0 auto;
+}
+.thank-inner a {
+color:black;
+}
+.form-content{
+ min-width:80%;
+  max-width:200px;
+margin:0 auto;
+}
+.textthank{
+ width:270px;
+ margin:0 auto;
+}
+#post-558{
+background: none repeat scroll 0% 0% rgb(242, 244, 237);
+}
+.iframethank{
+ width:80%;
+ margin:0 auto;
+
+}
+.fb{
+ background-color:white;
+}
